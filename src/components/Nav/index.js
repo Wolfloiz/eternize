@@ -12,6 +12,8 @@ export default function Nav() {
       <span className={style.itemNav}><IconNavBrain className={style.iconSvg} /></span>
       <span className={style.itemNav}><PersonNav className={style.iconSvg} /></span>
       <span className={style.itemNav}><InfinityNav className={style.iconSvg} /></span>
+
+       
   </div>
 )
 }
