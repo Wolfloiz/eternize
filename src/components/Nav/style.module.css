@@ -1,0 +1,17 @@
+.Nav {
+  display: flex;
+  width: 5vw;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.itemNav svg {
+  width: 100%;
+}
+
+.itemNav svg:hover {
+  background-color: #ccc;
+  cursor: pointer;
+}
