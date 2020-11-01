@@ -1,0 +1,23 @@
+.iconSvg {
+  width: 64px;
+}
+
+.Nav {
+  display: flex;
+  width: 5vw;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.ItemsNav {}
+
+.itemNav {
+
+}
+
+.itemNav svg:hover {
+  background-color: #ccc;
+  cursor: pointer;
+}
