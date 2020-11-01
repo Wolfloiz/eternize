@@ -1,7 +1,3 @@
-.iconSvg {
-  width: 64px;
-}
-
 .Nav {
   display: flex;
   width: 5vw;
@@ -11,10 +7,8 @@
   text-align: center;
 }
 
-.ItemsNav {}
-
-.itemNav {
-
+.itemNav svg {
+  width: 100%;
 }
 
 .itemNav svg:hover {

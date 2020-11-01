@@ -9,11 +9,9 @@ import { ReactComponent as InfinityNav } from './../../assets/infinity.svg';
 export default function Nav() {
   return (
   <div className={style.Nav}>
-    <div className={style.ItemsNav}>
       <span className={style.itemNav}><IconNavBrain className={style.iconSvg} /></span>
       <span className={style.itemNav}><PersonNav className={style.iconSvg} /></span>
       <span className={style.itemNav}><InfinityNav className={style.iconSvg} /></span>
-    </div>
   </div>
 )
 }
