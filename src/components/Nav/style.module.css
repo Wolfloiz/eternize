@@ -1,10 +1,15 @@
 .Nav {
   display: flex;
   width: 5vw;
-  height: 100vh;
+  height:  2500px;
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  background: #F2F7F7
+}
+
+ span{
+  background: #FFFF;
 }
 
 .itemNav svg {
@@ -14,4 +19,5 @@
 .itemNav svg:hover {
   background-color: #ccc;
   cursor: pointer;
+  transition: background-color 0.2s;
 }
