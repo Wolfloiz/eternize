@@ -1,11 +1,11 @@
 # eternize
 
-O protótipo da eternize foi criado utilizando o frame work do react app.
-Para prototipo foi desenvolvido pagina web para criar o projeto e preciso do node js e yarn instalado e após isso basta da o comando:
+O protótipo da eternize foi criado utilizando o framework do react.
+Para protótipo foi desenvolvido pagina web para criar o projeto e para construi-lo na maquina local é preciso do nodeJS e yarn instalado e após isso basta da o comando:
 ## yarn install
 e logo após:
 ## yarn start
- abaixo fotos do protótipo constuido.
+ abaixo fotos do protótipo construido.
  ![alt text](https://github.com/Wolfloiz/eternize/blob/master/src/assets/Picked-side-brain.png?raw=true)
 
   ![alt text](https://github.com/Wolfloiz/eternize/blob/master/src/assets/perfil-enabled.png?raw=true)
