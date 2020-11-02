@@ -12,6 +12,8 @@ e logo após:
 
   ![alt text](https://github.com/Wolfloiz/eternize/blob/master/src/assets/pick-side-brain.png?raw=true)
 
+
+
   O codigo foi feito por:
   @TheJohnPg
   @LoizLabs
