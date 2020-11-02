@@ -1,0 +1,68 @@
+.bodyCardName {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.bodyCardName > span{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.bodyCardSkills {
+  background: #fff;
+  width: 125px;
+  border-radius: 16px;
+  padding: 8px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.bodyCardTag {
+  background: #fff;
+  border-radius: 8px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.cardSkillsBody {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin: 25px;
+}
+
+.card {
+  width: 50vw;
+  max-height: 25vh;
+  display: flex;
+  background: linear-gradient(180deg, #FE4BBD 0%, #6651C4 100%);
+  margin: 0 auto;
+  margin-bottom: 5vh;
+  
+}
+
+.cardRight {
+  width: 100%;
+}
+
+
+
+.imgCss {
+  height: 25vh;
+  display: flex;
+}
+
+.timeLinePerson {
+  display: flex;
+  flex-direction: column;
+  width: 95vw;
+  margin-left: 5vw;
+}
+
+.timeLinePerson h1 {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
