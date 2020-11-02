@@ -25,6 +25,7 @@ export default function Nav() {
       <div className={style.ItemsNav}>
         <Link to="/"><span className={style.itemNav}><IconNavBrain className={style.iconSvg} /></span></Link>
         <Link to="/person"><span className={style.itemNav}><PersonNav className={style.iconSvg} /></span></Link>
+        <Link to="/infinity"><span className={style.itemNav}><InfinityNav className={style.iconSvg} /></span></Link>
 
         <Switch>
           <Route exact path="/">
