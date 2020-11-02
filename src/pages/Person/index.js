@@ -3,6 +3,7 @@ import React from 'react'
 import style from "./style.module.css";
 
 import HaddonImg from './../../assets/haddon.png'
+import CarineImg from './../../assets/carine.png'
 
 export default function Person() {
   return (
@@ -43,16 +44,16 @@ export default function Person() {
 
       <div className={style.card}>
         <div className={style.imgCss}>
-          <img src={HaddonImg} alt="" />
+          <img src={CarineImg} alt="" />
         </div>
         <div className={style.cardRight}>
           <div className={style.bodyCardName}>
-            <span className={style.name}>Haddon Guimaraes</span>
+            <span className={style.name}>Carine Zanotto</span>
           </div>
 
           <div className={style.cardSkillsBody}>
             <div className={style.bodyCardSkills}>
-              <span className={style.skills}>Empreendedor</span>
+              <span className={style.skills}>Marketing</span>
             </div>
 
             <div className={style.bodyCardSkills}>
@@ -60,14 +61,14 @@ export default function Person() {
             </div>
 
             <div className={style.bodyCardSkills}>
-              <span className={style.skills}>Resiliente</span>
+              <span className={style.skills}>Criativa</span>
             </div>
 
           </div>
 
           <div className={style.cardSkillsBody}>
             <div className={style.bodyCardTag}>
-              <span className={style.tags}>#Classic #Rock</span>
+              <span className={style.tags}>#Classic #Reggae</span>
             </div>
           </div>
         </div>

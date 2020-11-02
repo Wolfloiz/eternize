@@ -34,7 +34,7 @@
 }
 
 .card {
-  width: 50vw;
+  width: 75vw;
   max-height: 25vh;
   display: flex;
   background: linear-gradient(180deg, #FE4BBD 0%, #6651C4 100%);
