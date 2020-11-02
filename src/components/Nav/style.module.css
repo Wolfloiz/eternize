@@ -8,8 +8,13 @@
   background: #F2F7F7
 }
 
- span{
-  background: #FFFF;
+.ItemsNav { 
+  display: flex;
+  width: 5vw;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  background: #fff;
 }
 
 .itemNav svg {
